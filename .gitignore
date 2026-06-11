@@ -1,0 +1,19 @@
+# Built binary
+/go_study
+
+# Default SQLite database files (analytics)
+/go_study.db
+/go_study.db-wal
+/go_study.db-shm
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Test artifacts
+*.test
+*.out
+coverage.txt
